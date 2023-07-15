@@ -1,12 +1,12 @@
 # fauziCW1
-# to create a data transimission for user to capture parameter taken from patient
-# Heart Rate
-# Pulse oximeter
-# Temperature reading
-# Team Members
-# Fauzi
-# John
-# Amir
+to create a data transimission for user to capture parameter taken from patient
+Heart Rate
+Pulse oximeter
+Temperature reading
+Team Members
+Fauzi
+John
+Amir
 THE APPLICATION IS ABOUT THE DATA TRANSMISSION FOR THE HEALTH PATIENT PARAMETER DATA STORAGE. FOR THIS SOFTWARE TO DEVELOP WE NEED A TEAM OF 3 DEVELOPERS. THE DEVELOPERS ARE FAUZI, JOHN, AMIR.
 THE FINAL CODE IS SAVED IN MASTER BRANCH
 FAUZI WILL BE WORKING ON THE CAPTURING OF THE HEART RATE CAPTURING DATA. THE BRANCH WILL BE HR-FAUZI
